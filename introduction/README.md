@@ -1,6 +1,6 @@
 # Frontend Course / Introduction
 
-[:arrow_backward: Frontend Course](./README.md)
+[:arrow_backward: Frontend Course](../README.md)
 
 ---
 
