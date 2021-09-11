@@ -12,7 +12,7 @@ My attempt at creating a frontend course based on work and teaching experience.
 2. Git and Versioning
 3. HTML and CSS
 4. JavaScript In the Browser
-5. Build Tools
+5. [Build Tools](./build-tools)
 6. [Deploying](./deploying)
 7. React / Vue
 8. Testing
