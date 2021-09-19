@@ -9,13 +9,26 @@ My attempt at creating a frontend course based on work and teaching experience.
 ## Contents
 
 1. [Introduction](./introduction)
-2. Git and Versioning
-3. HTML and CSS
-4. JavaScript In the Browser
-5. [Build Tools](./build-tools)
-6. [Deploying](./deploying)
-7. React / Vue
-8. Testing
+   - Day 0 - How To Use This Course
+   - Day 1 - Setting Up
+   - Day 2 - How Does the Internet Work?
+2. Frontend Essentials With HTML, CSS, and Git - Building a Frontend Development Cheat Sheet
+   - Day 4 - The First Web Page
+   - Day 5 - Structuring Content With HTML
+   - Day 6 - How the Browser Renders the Page
+   - Day 7 - Styling Content With CSS
+   - Day 8 - Debugging Elements With Developer Tools
+   - Day 8 - Versioning With Git and GitHub
+   - Day 9 - Deploying To GitHub Pages
+   - ... CDN, Layouts, Responsive, Tips & Tricks
+3. Interactivity With JavaScript
+   - ... Node, JavaScript, variables and data types, data structures, conditions, loops, functions, scopes, closures, timers, DOM manipulation, Prettier, EditorConfig, ESLint
+4. Advanced Frontend With Sass, Babel, and Webpack
+5. Testing
+6. React / Vue
+7. Appendix
+   - [Build Tools](./build-tools)
+   - [Deploying](./deploying)
 
 ---
 

@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+- [How To Use This Course](./00.md)
 - [Setting Up](./01.md)
   - [Visual Studio Code](./01.md#visual-studio-code)
   - [Git](./01.md#git)
