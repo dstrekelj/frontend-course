@@ -8,16 +8,16 @@ My attempt at creating a frontend course based on work and teaching experience.
 
 ## Contents
 
-1. [Introduction](./introduction)
+1. :construction: [Introduction](./introduction)
    - Day 1 - How To Use This Course
    - Day 2 - Setting Up
    - Day 3 - How Does the Internet Work?
-2. [Essential Git](./essential-git)
+2. :construction: [Essential Git](./essential-git)
    - Day 1 - The First Git Repository
    - Day 2 - Adding, Removing, and Changing Files and Folders
    - Day 3 - Ignoring Files and Folders
    - Day 4 - Creating a GitHub Repository
-3. Essential Frontend With HTML, CSS, and Git - Building a Frontend Development Cheat Sheet
+3. :construction: [Essential Frontend](./essential-frontend) - Building a Frontend Development Cheat Sheet
    - Day 1 - The First Web Page
    - Day 2 - Structuring Content With HTML
    - Day 3 - How the Browser Renders the Page
@@ -25,14 +25,15 @@ My attempt at creating a frontend course based on work and teaching experience.
    - Day 5 - Debugging Elements With Developer Tools
    - Day 6 - Versioning With Git and GitHub
    - Day 7 - Deploying To GitHub Pages
-4. Building a Search Engine Homepage
-5. Building a Trading Card Creator
-6. Interactivity With JavaScript
+4. :construction: [Simple Forms](./simple-forms) - Building a Search Engine Homepage
+5. :construction: [Essential JavaScript](./essential-javascript) - Building a Clock
+6. :construction: [Interactive Forms](./interactive-forms) - Building a Trading Card Creator
+7. Interactivity With JavaScript
    - ... Node, JavaScript, variables and data types, data structures, conditions, loops, functions, scopes, closures, timers, DOM manipulation, Prettier, EditorConfig, ESLint
-7. Advanced Frontend With Sass, Babel, and Webpack
-8. Testing
-9. React / Vue
-10. Appendix
+8. Advanced Frontend With Sass, Babel, and Webpack
+9. Testing
+10. React / Vue
+11. Appendix
 
 - [Build Tools](./build-tools)
 - [Deploying](./deploying)
