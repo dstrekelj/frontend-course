@@ -83,3 +83,7 @@ git logo
 ```sh
 .gitkeep
 ```
+
+## Useful links
+
+- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
