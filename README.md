@@ -25,8 +25,8 @@ My attempt at creating a frontend course based on work and teaching experience.
    - Day 5 - Debugging Elements With Developer Tools
    - Day 6 - Versioning With Git and GitHub
    - Day 7 - Deploying To GitHub Pages
-4. ## Building a Search Engine Homepage
-5. ## Building a Trading Card Creator
+4. Building a Search Engine Homepage
+5. Building a Trading Card Creator
 6. Interactivity With JavaScript
    - ... Node, JavaScript, variables and data types, data structures, conditions, loops, functions, scopes, closures, timers, DOM manipulation, Prettier, EditorConfig, ESLint
 7. Advanced Frontend With Sass, Babel, and Webpack
