@@ -11,6 +11,7 @@
   - [Visual Studio Code](./01.md#visual-studio-code)
   - [Git](./01.md#git)
     - [GitHub](./01.md#github)
+      - [SSH authentication](./01.md#ssh-authentication)
     - [GitHub Desktop](./01.md#github-desktop)
   - [Web Browsers](./01.md#web-browsers)
   - [Node.js and NPM](./01.md#nodejs-and-npm)
