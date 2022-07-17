@@ -18,6 +18,8 @@
 - [How Does the Internet Work?](./02.md)
   - [The Internet Protocol](./02.md#the-internet-protocol)
   - [TCP and UDP protocols](./02.md#tcp-and-udp-protocols)
+    - [Transport Control Protocol (TCP)](./02.md#transport-control-protocol-tcp)
+    - [User Datagram Protocol (UDP)](./02.md#user-datagram-protocol-udp)
   - [HTTP](./02.md#http)
   - [DNS](./02.md#dns)
   - [Hosting](./02.md#hosting)

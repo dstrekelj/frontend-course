@@ -23,7 +23,7 @@ My attempt at creating a frontend course based on work and teaching experience.
    - Day 3 - How the Browser Renders the Page
    - Day 4 - Styling Content With CSS
    - Day 5 - Debugging Elements With Developer Tools
-   - Day 6 - Versioning With Git and GitHub
+   - Day - Versioning With Git and GitHub
    - Day 7 - Deploying To GitHub Pages
 4. :construction: [Simple Forms](./simple-forms) - Building a Search Engine Homepage
 5. :construction: [Essential JavaScript](./essential-javascript) - Building a Clock
