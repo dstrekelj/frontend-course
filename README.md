@@ -14,8 +14,8 @@ My attempt at creating a frontend course based on work and teaching experience.
    - Day 2 - The Internet and the Web
 2. :construction: [Essential Git](./essential-git)
    - Day 1 - Version Control With Local and Remote Git Repositories
-   - Day 2 - Adding, Removing, and Changing Files and Folders
-   - Day 3 - Ignoring Files and Folders
+   - Day 2 - Adding and Removing Files and Folders
+   - Day 3 - Branching
 3. :construction: [Essential Frontend](./essential-frontend) - Building a Frontend Development Cheat Sheet
    - Day 1 - The First Web Page
    - Day 2 - Structuring Content With HTML
