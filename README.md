@@ -8,15 +8,14 @@ My attempt at creating a frontend course based on work and teaching experience.
 
 ## Contents
 
-1. :construction: [Introduction](./introduction)
+1. [Introduction](./introduction)
    - Day 1 - How To Use This Course
    - Day 1 - Setting Up
    - Day 2 - The Internet and the Web
 2. :construction: [Essential Git](./essential-git)
-   - Day 1 - The First Git Repository
+   - Day 1 - Version Control With Local and Remote Git Repositories
    - Day 2 - Adding, Removing, and Changing Files and Folders
    - Day 3 - Ignoring Files and Folders
-   - Day 4 - Creating a GitHub Repository
 3. :construction: [Essential Frontend](./essential-frontend) - Building a Frontend Development Cheat Sheet
    - Day 1 - The First Web Page
    - Day 2 - Structuring Content With HTML
