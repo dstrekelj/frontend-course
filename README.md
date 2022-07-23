@@ -10,8 +10,8 @@ My attempt at creating a frontend course based on work and teaching experience.
 
 1. :construction: [Introduction](./introduction)
    - Day 1 - How To Use This Course
-   - Day 2 - Setting Up
-   - Day 3 - How Does the Internet Work?
+   - Day 1 - Setting Up
+   - Day 2 - The Internet and the Web
 2. :construction: [Essential Git](./essential-git)
    - Day 1 - The First Git Repository
    - Day 2 - Adding, Removing, and Changing Files and Folders
