@@ -4,42 +4,12 @@
 
 ---
 
-## Day 2
+## Table of Contents
 
-```sh
-git add
-```
+- [Version Control With Local and Remote Git Repositories](./01.md)
+- [Day 2](./02.md)
+- [Day 3](./03.md)
 
-```sh
-git reset
-```
-
-```sh
-git diff
-```
-
-```sh
-git commit
-```
-
-```sh
-git rm
-```
-
-```sh
-git logo
-```
-
-## Day 3
-
-```sh
-.gitignore
-```
-
-```sh
-.gitkeep
-```
-
-## Useful links
+## Links
 
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
