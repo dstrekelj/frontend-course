@@ -6,9 +6,9 @@
 
 ## Table of Contents
 
-- [Version Control With Local and Remote Git Repositories](./01.md)
-- [Day 2](./02.md)
-- [Day 3](./03.md)
+- [Version Control With Git Repositories](./01.md)
+- [Local and Remote Git Repositories](./02.md)
+- [Branching](./03.md)
 
 ## Links
 
