@@ -6,12 +6,14 @@
 
 ## Table of Contents
 
-- [Version Control With Local and Remote Git Repositories](./01.md)
-- [Day 2](./02.md)
-- [Day 3](./03.md)
+- [Version Control With Git Repositories](./01.md)
+- [Local and Remote Git Repositories](./02.md)
+- [Branching](./03.md)
 
 ## Links
 
+- [Git Reference](https://git-scm.com/docs)
+- [Atlassian Tutorials](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ---
