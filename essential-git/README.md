@@ -12,6 +12,8 @@
 
 ## Links
 
+- [Git Reference](https://git-scm.com/docs)
+- [Atlassian Tutorials](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ---
